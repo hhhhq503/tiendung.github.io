@@ -1,0 +1,288 @@
+.css-1hwtax5 {
+    box-sizing: border-box;
+    margin: 0;
+    min-width: 0;
+    width: 75.6%;
+    margin-right: 16px;
+}
+.css-rfz8yf {
+    background: white;
+    border-radius: 8px;
+}
+.css-4cffwv {
+    box-sizing: border-box;
+    margin: 0;
+    min-width: 0;
+    display: -webkit-box;
+    display: -webkit-flex;
+    display: -ms-flexbox;
+    display: flex;
+}
+.css-1i1dodm {
+    box-sizing: border-box;
+    margin: 0;
+    min-width: 0;
+    width: 40.5%;
+    padding-right: 16px;
+}
+.css-j4683g {
+    position: relative;
+    display: inline-block;
+    overflow: hidden;
+    cursor: pointer;
+    border-radius: 8px;
+    width: 100%;
+    padding-bottom: 100%;
+}
+.css-12isv00 {
+    display: flex;
+    -webkit-box-pack: start;
+    justify-content: flex-start;
+    gap: 0.5rem;
+}
+.css-4ok7dy {
+    border-radius: 4px;
+    border: 1px solid transparent;
+    position: relative;
+    cursor: pointer;
+    width: 50px;
+    height: 50px;
+    overflow: hidden;
+}
+.css-1dje825 {
+    position: relative;
+    display: inline-block;
+    overflow: hidden;
+    border-radius: 4px;
+    height: 50px;
+    width: 50px;
+}
+.css-11wj85m {
+    border-radius: 4px;
+    
+    position: relative;
+    cursor: pointer;
+    width: 50px;
+    height: 50px;
+    overflow: hidden;
+}
+.css-1d7g9ii {
+    border-style: none;
+    border-width: 1px;
+    border-color: unset;
+    opacity: 1;
+    margin: 0.75rem 0rem;
+    --divider-gap: 12px;
+    display: flex;
+    padding-top: var(--divider-gap);
+    padding-bottom: var(--divider-gap);
+}
+.css-1fm9yfq {
+    --divider-border-style: dashed;
+    --divider-color: #E4E5F0;
+    --divider-border-width: 1px;
+    display: flex;
+    width: 100%;
+    border-top: var(--divider-border-width) var(--divider-border-style) var(--divider-color);
+}
+.css-17aam1 {
+    padding: 1rem;
+}
+.css-6b3ezu {
+    box-sizing: border-box;
+    margin: 0;
+    min-width: 0;
+    width: 59.5%;
+}
+.css-4kh4rf {
+    font-size: 24px;
+    line-height: 1.33;
+}
+.css-ci57gj {
+    opacity: 1;
+    display: inline-flex;
+    -webkit-box-align: center;
+    align-items: center;
+    padding-left: 0.25rem;
+    padding-right: 0.25rem;
+    height: 1rem;
+    border-radius: 0.25rem;
+    border: unset;
+    background-color: rgb(25, 144, 255);
+    position: relative;
+    bottom: 4px;
+    margin-right: 4px;
+}
+.css-16nsr8g {
+    margin: 0px;
+    padding: 0px;
+    border-style: none;
+    border-width: 1px;
+    border-color: unset;
+    opacity: 1;
+    color: rgb(255, 255, 255);
+    font-weight: 500;
+    text-decoration: unset;
+    font-size: 10px;
+    line-height: 16px;
+    overflow: hidden;
+    display: -webkit-box;
+    -webkit-box-orient: vertical;
+    -webkit-line-clamp: 1;
+    max-width: unset;
+    min-width: unset;
+    transition: color 0.3s ease 0s;
+}
+.css-ljbw9y {
+    margin: 0px;
+    padding: 0px;
+    border-style: none;
+    border-width: 1px;
+    border-color: unset;
+    opacity: 1;
+    color: rgb(130, 134, 158);
+    font-weight: 400;
+    text-decoration: unset;
+    font-size: 12px;
+    line-height: 16px;
+    overflow: hidden;
+    display: -webkit-box;
+    -webkit-box-orient: vertical;
+    -webkit-line-clamp: unset;
+    max-width: unset;
+    min-width: unset;
+    transition: color 0.3s ease 0s;
+}
+.css-cbrxda {
+    text-decoration: none;
+    color: unset;
+    cursor: pointer;
+}
+.css-ebx3bk {
+    color: rgb(235, 31, 58);
+}
+.css-qmrpdk {
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+}
+.css-1q5zfcu {
+    display: flex;
+    flex-direction: column;
+    -webkit-box-align: start;
+    align-items: start;
+    height: 2.5rem;
+    margin-bottom: 10px;
+}
+.css-10cbhbu {
+    margin: 0px;
+    padding: 0px;
+    border-style: none;
+    border-width: 1px;
+    border-color: unset;
+    opacity: 1;
+    color: rgb(235, 31, 58);
+    font-weight: 700;
+    text-decoration: unset;
+    font-size: 20px;
+    line-height: 28px;
+    overflow: hidden;
+    display: -webkit-box;
+    -webkit-box-orient: vertical;
+    -webkit-line-clamp: unset;
+    max-width: unset;
+    min-width: unset;
+    transition: color 0.3s ease 0s;
+}
+.css-1co12kj {
+    margin: 0px 0.25rem 0px 0px;
+    padding: 0px;
+    border-style: none;
+    border-width: 1px;
+    border-color: unset;
+    opacity: 1;
+    color: rgb(130, 134, 158);
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 16px;
+    overflow: hidden;
+    display: -webkit-box;
+    -webkit-box-orient: vertical;
+    -webkit-line-clamp: unset;
+    max-width: unset;
+    min-width: unset;
+    transition: color 0.3s ease 0s;
+    text-decoration: line-through;
+}
+.css-16446cl {
+    margin: 0px;
+    padding: 0px;
+    border-style: none;
+    border-width: 1px;
+    border-color: unset;
+    opacity: 1;
+    color: rgb(235, 31, 58);
+    font-weight: 400;
+    text-decoration: unset;
+    font-size: 12px;
+    line-height: 16px;
+    overflow: hidden;
+    display: -webkit-box;
+    -webkit-box-orient: vertical;
+    -webkit-line-clamp: unset;
+    max-width: unset;
+    min-width: unset;
+    transition: color 0.3s ease 0s;
+}
+.css-3mjppt {
+    display: flex;
+    height: 1rem;
+}
+.css-100rtfe {
+    border-style: none;
+    border-width: 1px;
+    border-color: unset;
+    opacity: 1;
+    --divider-gap: 12px;
+    display: flex;
+    padding-top: var(--divider-gap);
+    padding-bottom: var(--divider-gap);
+}
+.css-1fm9yfq {
+    --divider-border-style: dashed;
+    --divider-color: #E4E5F0;
+    --divider-border-width: 1px;
+    display: flex;
+    width: 100%;
+    border-top: var(--divider-border-width) var(--divider-border-style) var(--divider-color);
+}
+.css-157jl91 {
+    position: absolute;
+    inset: 0px;
+    overflow: hidden;
+    z-index: 0;
+    border-radius: inherit;
+}
+.css-y202r {
+    border-style: none;
+    border-width: 1px;
+    border-color: unset;
+    opacity: 1;
+    margin-top: 1rem;
+    padding: 0rem 1.25rem;
+    border-radius: 0.25rem;
+    background-color: rgb(235, 31, 58);
+    position: relative;
+    display: flex;
+    -webkit-box-align: center;
+    align-items: center;
+    -webkit-box-pack: center;
+    justify-content: center;
+    outline: none;
+    min-width: 2.5rem;
+    color: rgb(255, 255, 255);
+    width: 100%;
+    cursor: pointer;
+    transition-duration: 80ms;
+    transition-property: background-color;
+    height: 46px;
+}
